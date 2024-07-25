@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Santillana Front
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Para poder correr el front ingresa lo siguientes comandos
+
+    npm i
+
+----
+
+    npm start
 
 ## Available Scripts
 
