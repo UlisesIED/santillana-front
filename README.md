@@ -10,6 +10,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
     npm start
 
+----
+
+### `Para que funcione el Front deben levantar el Back`
+
 ## Available Scripts
 
 In the project directory, you can run:
